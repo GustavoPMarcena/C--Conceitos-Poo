@@ -1,0 +1,15 @@
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\bin\Debug\net7.0\07Abstracao.exe
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\bin\Debug\net7.0\07Abstracao.deps.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\bin\Debug\net7.0\07Abstracao.runtimeconfig.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\bin\Debug\net7.0\07Abstracao.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\bin\Debug\net7.0\07Abstracao.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\refint\07Abstracao.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\07Abstracao.genruntimeconfig.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\07Abstracao\obj\Debug\net7.0\ref\07Abstracao.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\bin\Debug\net7.0\03GetSet.exe
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\bin\Debug\net7.0\03GetSet.deps.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\bin\Debug\net7.0\03GetSet.runtimeconfig.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\bin\Debug\net7.0\03GetSet.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\bin\Debug\net7.0\03GetSet.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\refint\03GetSet.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\03GetSet.genruntimeconfig.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\03GetSet\obj\Debug\net7.0\ref\03GetSet.dll

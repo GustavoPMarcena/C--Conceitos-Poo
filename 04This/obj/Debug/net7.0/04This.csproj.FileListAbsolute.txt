@@ -1,0 +1,15 @@
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\bin\Debug\net7.0\04This.exe
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\bin\Debug\net7.0\04This.deps.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\bin\Debug\net7.0\04This.runtimeconfig.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\bin\Debug\net7.0\04This.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\bin\Debug\net7.0\04This.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\refint\04This.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\04This.genruntimeconfig.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\04This\obj\Debug\net7.0\ref\04This.dll

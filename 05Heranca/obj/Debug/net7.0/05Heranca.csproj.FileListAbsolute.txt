@@ -1,0 +1,15 @@
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\bin\Debug\net7.0\05Heranca.exe
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\bin\Debug\net7.0\05Heranca.deps.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\bin\Debug\net7.0\05Heranca.runtimeconfig.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\bin\Debug\net7.0\05Heranca.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\bin\Debug\net7.0\05Heranca.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\refint\05Heranca.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\05Heranca.genruntimeconfig.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\05Heranca\obj\Debug\net7.0\ref\05Heranca.dll

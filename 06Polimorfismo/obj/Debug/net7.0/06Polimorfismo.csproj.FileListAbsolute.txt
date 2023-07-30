@@ -1,0 +1,15 @@
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\bin\Debug\net7.0\06Polimorfismo.exe
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\bin\Debug\net7.0\06Polimorfismo.deps.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\bin\Debug\net7.0\06Polimorfismo.runtimeconfig.json
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\bin\Debug\net7.0\06Polimorfismo.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\bin\Debug\net7.0\06Polimorfismo.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\refint\06Polimorfismo.dll
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.pdb
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\06Polimorfismo.genruntimeconfig.cache
+C:\Users\gusta\Downloads\Projetos\c#\Exercicio-criação-de-um-ImcApp(vsxode)\06Polimorfismo\obj\Debug\net7.0\ref\06Polimorfismo.dll
